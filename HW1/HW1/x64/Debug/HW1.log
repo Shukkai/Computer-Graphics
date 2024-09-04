@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\learn\cg\HW1\HW1\include\Object.h(176,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\learn\cg\HW1\HW1\include\Object.h(183,1): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\learn\cg\HW1\HW1\include\Shader.h(31,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\learn\cg\HW1\HW1\main.cpp(258,64): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+C:\learn\cg\HW1\HW1\main.cpp(263,63): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+C:\learn\cg\HW1\HW1\main.cpp(268,60): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+C:\learn\cg\HW1\HW1\main.cpp(273,64): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+C:\learn\cg\HW1\HW1\main.cpp(278,61): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+C:\learn\cg\HW1\HW1\main.cpp(283,63): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+LINK : warning LNK4098: 預設的程式庫 'MSVCRT' 與其他使用的程式庫衝突，請使用 /NODEFAULTLIB:library
+  HW1.vcxproj -> C:\learn\cg\HW1\x64\Debug\HW1.exe

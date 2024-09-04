@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\learn\cg\ICG2023_HW2\HW2\Main.cpp(198,27): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\learn\cg\ICG2023_HW2\HW2\Main.cpp(204,27): warning C4244: '-=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\learn\cg\ICG2023_HW2\HW2\Main.cpp(210,24): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\learn\cg\ICG2023_HW2\HW2\Main.cpp(217,24): warning C4244: '-=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\learn\cg\ICG2023_HW2\HW2\Main.cpp(224,28): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\learn\cg\ICG2023_HW2\HW2\Main.cpp(227,30): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\learn\cg\ICG2023_HW2\HW2\Main.cpp(422,60): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+C:\learn\cg\ICG2023_HW2\HW2\Main.cpp(426,62): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+  HW2.vcxproj -> C:\learn\cg\ICG2023_HW2\x64\Debug\HW2.exe

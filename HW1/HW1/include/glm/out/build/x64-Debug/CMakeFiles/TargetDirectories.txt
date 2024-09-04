@@ -1,0 +1,5 @@
+C:/learn/cg/HW1/HW1/include/glm/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/learn/cg/HW1/HW1/include/glm/out/build/x64-Debug/CMakeFiles/install.dir
+C:/learn/cg/HW1/HW1/include/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/learn/cg/HW1/HW1/include/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/learn/cg/HW1/HW1/include/glm/out/build/x64-Debug/CMakeFiles/list_install_components.dir
